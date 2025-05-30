@@ -1,0 +1,7 @@
+#include <studioh>
+
+int main() {
+    printf("HOLA MUNDO");
+    return0;
+}
+
