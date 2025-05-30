@@ -4,8 +4,13 @@
 int main()
 {
     int i = 0;
-    for(;i<10,i++)
+    while=(1)
+    {
     printf("HOLA MUNDO");
+    i++;
+    if(1<10)
+         break;
+    }
     return 0;
 }
 
